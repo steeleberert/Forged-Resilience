@@ -1,22 +1,36 @@
-[README.txt](https://github.com/user-attachments/files/29907628/README.txt)
-FORGED RESILIENCE PORTFOLIO
+# Forged Resilience Portfolio 3.0
 
-This version contains no resume, phone number, email address, location, employment history,
-education history, or other personal information.
+This package is ready for GitHub Pages.
 
-FILES
-- index.html
-- forged-resilience-logo.svg
+## Included files
 
-HOW TO REPLACE THE TEMPORARY LOGO
-1. Save your real logo as forged-resilience-logo.png.
-2. Put it in the same folder as index.html.
-3. Open index.html in Notepad.
-4. Change:
-   forged-resilience-logo.svg
-   to:
-   forged-resilience-logo.png
-5. Save the file.
+- `index.html` — complete website
+- `styles.css` — responsive styling
+- `script.js` — navigation, animations, and prompt tabs
 
-TO UPDATE YOUR LIVE SITE
-Upload both files to your existing GitHub repository and replace the old index.html.
+## Publish through GitHub
+
+1. Open the `Forged-Resilience` repository.
+2. Choose **Add file** → **Upload files**.
+3. Upload all three website files from this folder.
+4. Replace the existing files when prompted.
+5. Select **Commit changes**.
+6. Open **Settings** → **Pages**.
+7. Confirm deployment is set to the main branch and root folder.
+8. Refresh the published site after GitHub finishes deploying.
+
+## Important links already included
+
+- GitHub Pages portfolio
+- GitHub repository
+- LinkedIn profile
+- Original AI presentation video
+- Capstone Video II on OneDrive
+
+## Recommended next additions
+
+- Final Forged Resilience logo file
+- Professional headshot
+- Resume download after graduation
+- Screenshots or still frames from video projects
+- Certification section
